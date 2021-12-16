@@ -1,2 +1,2 @@
 # NetDevOps
-network autuo dev
+network auto dev
